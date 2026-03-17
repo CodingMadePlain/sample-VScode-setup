@@ -1,6 +1,6 @@
 ---
 name: 'Content Architect - Writing Standards'
-description: 'Writing, editing, and proofreading conventions for Markdown files. Enforces British English, no contractions, active voice, and clear concise style.'
+description: 'Writing, editing, producing transcripts for video, articles and proofreading conventions for Markdown files. Enforces British English, no contractions, active voice, and clear concise style.'
 applyTo: '**/*.md'
 ---
 
