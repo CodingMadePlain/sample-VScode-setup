@@ -1,11 +1,11 @@
-# Agentic Coding ✨ and VS Code Setup : AI for Programming and Coding
-**Trainer: Dele Oke**
+# ✨ Sample VS Code Setup For Agentic Coding
+**By: Dele Oke**
 
-> Sample setup for VS Code
+What is Agentic Coding is where AI models autonomously  plan, implement, and debug code based on clear instructions and structured requirements.
 
-**What is Agentic Coding?** Using AI agents autonomously to plan, implement, and debug code based on clear instructions and structured requirements.
+---
 
-## Prerequisites 🟡
+## Prerequisites 
 - VS Code installed
 - [Git 2.23+](https://git-scm.com/)
 - [GitHub account](https://github.com/)
@@ -17,6 +17,7 @@ Github Copilot is the *AI Assitant* and the *LLM's* are supplied by:
 - OpenAI (GPT family e.g GPT-4)
 - Anthropic (Claude family e.g Claude 2)
 - Google (Gemini family)
+- And others
 
 
 
